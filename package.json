@@ -20,6 +20,7 @@
     "vite": "~6.3.5"
   },
   "dependencies": {
+    "ml5": "~1.2.1",
     "three": "~0.177.0"
   },
   "engines": {
