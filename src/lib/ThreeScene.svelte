@@ -10,7 +10,7 @@
 
   const scene = new THREE.Scene()
 
-  const geometry = new THREE.BoxGeometry(0.2, 0.2, 0.2)
+  const geometry = new THREE.BoxGeometry(0.5, 0.5, 0.2)
   const material = new THREE.MeshNormalMaterial()
 
   const mesh = new THREE.Mesh(geometry, material)
