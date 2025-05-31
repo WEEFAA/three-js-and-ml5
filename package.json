@@ -1,7 +1,7 @@
 {
   "name": "three-js-and-ml5",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,10 +15,11 @@
     "@types/three": "^0.176.0",
     "svelte": "^5.28.1",
     "svelte-check": "^4.1.6",
+    "svelte-language-server": "^0.17.15",
     "typescript": "~5.8.3",
     "vite": "~6.3.5"
   },
   "dependencies": {
-    "three": "^0.177.0"
+    "three": "~0.177.0"
   }
 }
